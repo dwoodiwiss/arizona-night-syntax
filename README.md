@@ -1,5 +1,4 @@
 # Arizona Night Syntax Theme
-#### For Atom Text Editor
 
 A low contrast purply theme for [Atom Text Editor](https://atom.io/).
 
