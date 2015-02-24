@@ -2,7 +2,7 @@
   "name": "arizona-night-syntax",
   "theme": "syntax",
   "version": "0.2.2",
-  "description": "A short description of your syntax theme",
+  "description": "A low contrast purply theme for Atom Text Editor.",
   "repository": "https://github.com/dwoodiwiss/arizona-night-syntax",
   "license": "MIT",
   "engines": {
