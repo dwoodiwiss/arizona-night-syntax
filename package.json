@@ -1,0 +1,11 @@
+{
+  "name": "arizona-night-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "repository": "https://github.com/atom/arizona-night-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
