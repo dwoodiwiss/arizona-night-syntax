@@ -1,5 +1,6 @@
-# arizona-night-syntax theme
+# Arizona Night Syntax Theme
+## For Atom Text Editor
 
-A short description of your theme.
+A low contrast purply theme for [Atom Text Editor](https://atom.io/).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Arizona Night Syntax Highlight for Atom Text Editor](https://github.com/dwoodiwiss/arizona-night-syntax/blob/master/reference/swatch.png "Arizona Night for Atom")
