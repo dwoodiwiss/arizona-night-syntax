@@ -3,5 +3,5 @@
 
 A low contrast purply theme for [Atom Text Editor](https://atom.io/).
 
-![Arizona Night Syntax Highlight for Atom Text Editor](resources/swatch.png "Arizona Night for Atom")
-![Arizona Night Syntax Highlight Preview](resources/preview.png "Arizona Night for Atom Preview")
+![Arizona Night Syntax Highlight for Atom Text Editor](resources/swatch.png)
+![Arizona Night Syntax Highlight Preview](resources/preview.png)
